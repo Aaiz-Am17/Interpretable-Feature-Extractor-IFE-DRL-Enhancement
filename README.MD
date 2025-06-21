@@ -2,7 +2,7 @@
 
 Welcome to the official repository for our research project, **"Pay Attention to What and Where? Interpretable Feature Extractor for Vision-based Deep Reinforcement Learning"**, submitted to IJCNN 2025!
 
-This project, a collaborative effort with [Ahsan Saleem](https://lnkd.in/ekiCtwaH) (you can link his LinkedIn profile here if you wish!), delves into making Deep Reinforcement Learning (DRL) agents more transparent and efficient, especially in vision-based tasks. We've significantly advanced the **Interpretable Feature Extractor (IFE)** to help us understand *what* and *where* a DRL agent is focusing its attention.
+This project, a collaborative effort with [Ahsan Saleem](https://lnkd.in/ekiCtwaH), delves into making Deep Reinforcement Learning (DRL) agents more transparent and efficient, especially in vision-based tasks. We've significantly advanced the **Interpretable Feature Extractor (IFE)** to help us understand *what* and *where* a DRL agent is focusing its attention.
 
 ## ✨ **The Grand Vision: Why Interpretability Matters**
 
