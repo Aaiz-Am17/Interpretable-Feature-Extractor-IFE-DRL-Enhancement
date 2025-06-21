@@ -1,0 +1,14 @@
+
+wandb 
+gym[atari]==0.18.0 
+imageio 
+moviepy 
+torchsummary 
+tqdm 
+rich 
+procgen 
+gym-retro 
+torch 
+stable_baselines3 
+atari_py==0.2.9
+shimmy>=0.2.1
